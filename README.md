@@ -72,30 +72,52 @@
 
 ## 📷 시연
 ### 1️⃣ 웹캠을 통해 사용자 얼굴 캡처 및 저장 (100장)
+![image](https://github.com/user-attachments/assets/d1db95f6-69f7-496d-bc1a-997f387074a7)
 
+
+![image](https://github.com/user-attachments/assets/8fdaf392-c556-4fb1-b2a6-c8989e1d3aed)
+
+
+![image](https://github.com/user-attachments/assets/c3d46231-2cec-427c-bdd7-f28141332d15)
 
 
 ### 2️⃣ 한 장당 10개의 데이터셋 증가 (이미지 증강 기법)
+![image](https://github.com/user-attachments/assets/bfdb3510-e322-4ce1-aef3-1cb4abf9bedc)
 
+
+![image](https://github.com/user-attachments/assets/97e81eee-a851-457e-a5ff-b9e7180fdfd2)
 
 
 ### 3️⃣ 얼굴 데이터 학습
+![image](https://github.com/user-attachments/assets/32ad9400-2c85-42cf-8983-bd2409650fe4)
 
 
+### 3️⃣ 사용자 인증 
+![image](https://github.com/user-attachments/assets/ee472bc0-5a9d-42c4-8727-07b8e0be0833)
 
-### 3️⃣ 사용자 인증
 
+![image](https://github.com/user-attachments/assets/f7f1d0c5-e72e-486e-9beb-8a742bd9acb8)
 
 
 ### 4️⃣ 인증 성공 시 가상 버튼 인터페이스 출력
-
+![image](https://github.com/user-attachments/assets/0c390fa8-706c-4893-9272-801a6c2f71dc)
 
 
 ### 5️⃣ 버튼에 3초 이상 손을 대고 있으면 선택 완료(손이 아닌 것은 인식 X)
+![image](https://github.com/user-attachments/assets/3e3977ab-5baf-4236-a79b-95c32f8d2d80)
 
+
+![image](https://github.com/user-attachments/assets/b6c08b27-78eb-4f09-bb33-adcf382cae21)
+
+
+![image](https://github.com/user-attachments/assets/2fd09040-9e40-4d80-81c3-c8a846a9589d)
+
+
+![image](https://github.com/user-attachments/assets/fc0269cd-55a8-4665-abbf-3d3d47d865dc)
 
 
 ### 6️⃣ 실시간 출퇴근 로그 기록
+![image](https://github.com/user-attachments/assets/d0d52184-f35b-45bf-805d-f2379fab6012)
 
 
 ---
